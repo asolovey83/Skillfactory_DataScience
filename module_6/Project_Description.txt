@@ -1,0 +1,26 @@
+Grocery and Gourmet Recommendation Challenge
+The purpose of this challenge is to build a recommendation model that will allow to increase the average 
+bill in the online shop by recommending shoppers specific items.
+
+We have the following dataset test.csv which we can use for making predictions. 
+Each set of pairs userid - itemid has its own id, for which we should do a prediction.
+
+The features were the following:
+
+overall - rating set by the user
+verified - was the review verified or not
+reviewTime - the time when review was written
+reviewerName - user name
+reviewText - full review text
+summary - summary of the review text
+vote - a number of votes for the review
+style - metadata
+image - image of the product
+userid - id of the user
+itemid - id of the product
+id - id for prediction
+
+NickName on Kaggel is Andrew Solovey
+
+I didn`t work in team, I did everything on my own. I guess I was good in analysing data and figureing out what item_features worked the best
+
